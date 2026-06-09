@@ -1,1 +1,1 @@
-build: ./mvn clean package -DskipTests
+build: ./mvn clean package -DskipTests 
